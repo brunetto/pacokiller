@@ -7,3 +7,5 @@ launchctl unload -w /System/Library/LaunchAgents/com.apple.parentalcontrols.chec
 ```
 
 doesn't work.
+
+Run with `sudo pacokiller`
